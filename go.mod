@@ -2,7 +2,7 @@ module github.com/project-copacetic/copacetic
 
 go 1.23
 
-toolchain go1.23
+#toolchain go1.23
 
 require (
 	github.com/aquasecurity/trivy v0.55.0
